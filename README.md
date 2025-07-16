@@ -1,4 +1,4 @@
-Analyse des Retours Clients et Optimisation de l'Expérience Produit - [Nom de Votre Projet]
+Analyse des Retours Clients et Optimisation de l'Expérience Produit - [Clothing]
 
 Contexte du Projet
 
@@ -28,7 +28,7 @@ En revanche, la lingerie se positionne comme un point faible évident, n'atteign
 
 De plus, une opportunité significative réside dans l'amélioration de l'offre pour les clientes de petite taille, dont les attentes ne semblent pas pleinement comblées, suggérant un besoin d'ajustements dans notre gamme de produits.
 
-2. Comportement des Client(e)s par Tranche d'Âge
+2. Comportement des Clientes par Tranche d'Âge
 
 L'étude comportementale confirme que les femmes accomplies (30-45 ans) représentent notre cœur de cible, affichant une satisfaction généralisée sur l'ensemble de notre offre.
 
@@ -74,4 +74,4 @@ Ce projet a mobilisé une combinaison d'outils et de techniques robustes :
 
 Accéder au Rapport Power BI
 
-Le fichier Power BI (.pbix) est disponible dans ce dépôt pour une exploration interactive des données et des visualisations.
+Le fichier Power BI ("C:\Users\siraj\Downloads\Business_clothing_Power_BI.pbix") est disponible dans ce dépôt pour une exploration interactive des données et des visualisations.
