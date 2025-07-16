@@ -74,4 +74,4 @@ Ce projet a mobilisé une combinaison d'outils et de techniques robustes :
 
 Accéder au Rapport Power BI
 
-Le fichier Power BI ("C:\Users\siraj\Downloads\Business_clothing_Power_BI.pbix") est disponible dans ce dépôt pour une exploration interactive des données et des visualisations.
+Le fichier Power BI (https://drive.google.com/file/d/1BwGJ7gUQYlEv5Fzba-vgfeRDzR1oiPjb/view?usp=sharing) est disponible dans ce dépôt pour une exploration interactive des données et des visualisations.
